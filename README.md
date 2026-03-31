@@ -1,16 +1,35 @@
-## Hi there 👋
+🚀 I’m currently working on
+Building and optimizing CI/CD pipelines using GitLab, OpenShift, and Kubernetes
+Designing scalable ETL pipelines with Ab Initio, SQL, and Unix
+Developing full-stack applications (Java + Angular/React)
+Exploring AWS cloud architecture (in progress)
 
-<!--
-**ragnarok2904/ragnarok2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤝 I’m looking to collaborate on
+DevOps automation projects (CI/CD, Kubernetes, Helm)
+Cloud-native applications (AWS-based systems)
+Full-stack apps combining Java + modern frontend frameworks
+Open-source projects in DevOps / Cloud / Data Engineering
 
-Here are some ideas to get you started:
+🆘 I’m looking for help with
+Advanced AWS architecture & real-world deployments
+System design for high-scale distributed systems
+Improving frontend UI/UX skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+AWS (Cloud Practitioner → Solutions Architect track)
+Advanced Kubernetes & container orchestration
+System design & scalable architecture patterns
+
+💬 Ask me about
+CI/CD pipelines (GitLab, OpenShift, Nolio)
+Kubernetes, Docker & deployment automation
+ETL pipelines (Ab Initio, SQL, Unix)
+Java backend development & API design
+
+⚡ Fun fact
+Reduced deployment downtime by 60% and sped up releases by 20% 🚀
+Love blending DevOps + Development to build end-to-end systems
+I like to play cricket, badminton, football and other outdoor games. I have obsession for bikes and technology. I like to cook as well.
+
+💻 Tech Stack:
+C++ Java HTML5 JavaScript Python Windows Terminal AWS Angular.js Angular RxJS Spring MySQL Postgres MicrosoftSQLServer Pandas NumPy GitHub GitLab Bitbucket Git GitLab CI Jira
