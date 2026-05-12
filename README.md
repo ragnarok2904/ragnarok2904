@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghunandan Nath</h1>
-<h3 align="center">🚀 DevOps Engineer | Java Developer | Cloud & CI/CD Enthusiast</h3>
+<h3 align="center">🚀 Java Full-Stack Developer | DevOps Engineer | Cloud & CI/CD Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/raghunandan-nath" target="_blank">
