@@ -122,9 +122,8 @@
 
 > 🚧 Add your best projects here
 
-- 🔹 Project Name — *Short description*
-- 🔹 Project Name — *Short description*
-- 🔹 Project Name — *Short description*
+- 📚 Java fundamentals practice: [Airtribe Assignments](https://github.com/AirTribe-Assignments)
+- 🔹 Project Name — 
 
 ---
 
