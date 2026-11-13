@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔧 DevOps Engineer with **2.5+ years experience at Barclays**
+- 🔧 Software Engineer with **3+ years experience at Barclays**
 - ⚡ Reduced deployment downtime by **60%**
 - 🚀 Improved release cycles by **20%**
 - 📊 Optimized ETL pipelines, reducing processing time by **28%**
